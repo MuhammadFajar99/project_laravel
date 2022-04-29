@@ -97,7 +97,7 @@
 				</li><li>
 					<a href='?module=JS Arrays'><i class='fa fa-angle-double-right'></i>JS Arrays[ GALIH ADI PRATAMA]</a>
 				</li><li>
-					<a href='?module=JS Array Methods'><i class='fa fa-angle-double-right'>	   </i>JS Array Methods[ 		]</a>
+					<a href="{{route('jsfajar')}}"><i class='fa fa-angle-double-right'>	   </i>JS MUHAMMAD FAJAR[ MUHAMMAD FAJAR		]</a>
 				</li><li>
 					<a href='?module=JS Array Sort'><i class='fa fa-angle-double-right'>		  </i>JS Array Sort[	]</a>
 				</li><li>
