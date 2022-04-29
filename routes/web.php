@@ -32,5 +32,8 @@ Route::prefix('admin')->group(function () {
     Route::get('/jsIntroduction', 'JsintroController@index')->name('jsintro');
     Route::get('/jsIntroduction_next', 'JsintroController@index_next')->name('jsintro_next');
   
+    Route::get('/jsFajar', 'FajarController@index')->name('jsfajar');
+    Route::get('/jsFajar_next', 'FajarController@index_next')->name('jsfajar_next');
+  
 
 });
